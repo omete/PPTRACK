@@ -1,2 +1,2 @@
-# ppt_mask
-Numerical pepper pot mask design tool.
+# track_ppt
+Pepper pot mask design tool.
